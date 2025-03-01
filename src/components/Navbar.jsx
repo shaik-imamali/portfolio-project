@@ -14,16 +14,16 @@ const Navbar = () => {
 
       {/* Social Icons */}
       <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
-        <a href='https://www.linkedin.com/in/manideep2005/' target='_blank' rel='noopener noreferrer'>
+        <a href='https://www.linkedin.com/in/shaik-imamali-b34758280' target='_blank' rel='noopener noreferrer'>
           <FaLinkedin className='hover:text-cyan-500 transition-all' />
         </a>
-        <a href='https://github.com/POLIMETLA-MANIDEEP' target='_blank' rel='noopener noreferrer'>
+        <a href='https://github.com/shaik-imamali' target='_blank' rel='noopener noreferrer'>
           <FaGithub className='hover:text-gray-700 transition-all' />
         </a>
-        <a href='https://twitter.com/your-handle' target='_blank' rel='noopener noreferrer'>
+        <a href='https://twitter.com/ImamaliShaik001' target='_blank' rel='noopener noreferrer'>
           <FaSquareXTwitter className='hover:text-blue-400 transition-all' />
         </a>
-        <a href='https://www.instagram.com/mr.unknown_449/' target='_blank' rel='noopener noreferrer'>
+        <a href='https://www.instagram.com/iam_alishaik' target='_blank' rel='noopener noreferrer'>
           <FaInstagram className='hover:text-pink-600 transition-all' />
         </a>
       </div>
